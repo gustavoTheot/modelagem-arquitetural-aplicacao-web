@@ -1,2 +1,3 @@
 # modelagem-arquitetural-aplicacao-web
-Modelagem Arquitetural de uma Aplicação Web para Venda de Móveis Planejados
+
+Repositório contendo artefatos referente ao TCC: Modelagem Arquitetural de uma Aplicação Web para Venda de Móveis Planejados
